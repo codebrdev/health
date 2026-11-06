@@ -1,0 +1,8 @@
+github.com/codebrdev/limiter v0.1.0 h1:Tz+w8owLFdfW+XrsZVcdh6bWQDG5MK7axvCaY3c0HUg=
+github.com/codebrdev/limiter v0.1.0/go.mod h1:NsHcYPL64YI1Ygvf4p0v6kbcCG4CEiPWnClX9Vi+VRY=
+github.com/codebrdev/middleware v0.1.0 h1:GJOPNq7Np2cXpZR5wYqFw6QgxSQGtY20wCICrEEmL9A=
+github.com/codebrdev/middleware v0.1.0/go.mod h1:q5eHOAs4CNTmB8oJZidNn7kOaCB6AlUIxif3VSgjHPU=
+github.com/codebrdev/response v0.1.0 h1:pz1kjQZp/neOoBqfDcFJG/EJtl/hUgU67BFTwRIOjic=
+github.com/codebrdev/response v0.1.0/go.mod h1:5WCdvCsckF2WYjTM3L3qZAA6BFQJyJP1DXGI5p8PnNU=
+golang.org/x/time v0.16.0 h1:vMb6ptszcQMkcwiRTAuNNU50gom6++Q/6gY2hDM6VDE=
+golang.org/x/time v0.16.0/go.mod h1:rVKOqvZeKvrDKTQiAHJ7wmwP0RzleSphoEA9RcdLA0s=
